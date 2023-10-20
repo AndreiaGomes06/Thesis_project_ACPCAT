@@ -25,10 +25,10 @@ Com o intuito de permitir ao utilizador executar uma ACPCAT de forma simplificad
 Nesta pasta estão presentes todos os conjuntos de dados utilizados nas diferentes etapas deste trabalho: BaseDados_organizada, BaseDados_Prova_descritiva, Dados_original, dataset_tratado_NAS, mamiferos e o ficheiro PDF com informações sobre a interpretação das provas de vinhos. 
 
 ### Exploração dos pacotes
-Nesta pasta estão os ficheiros R referentes à exploração dos pacotes disponíveis no Sotfware R: Gifi_análise_nominal, Gifi_análise_ordinal e homals.
+Nesta pasta estão os ficheiros R referentes à exploração dos pacotes disponíveis no *sotfware* R: Gifi_análise_nominal, Gifi_análise_ordinal e homals.
 
 ###  Vinhos
-Nesta pasta estão presentes os ficheiros R relacionados com o tratamento e exploraçãodos dados sensoriais das provas dos vinhos de forma a profundar o conhecimento sobre as potencialidades da função princals() do pacote Gifi para a implementação da ACPCAT:  R_script_tratamento_NAS, R_script_análise_NAS e R_script_análise_NAS_var_nominais.
+Nesta pasta estão presentes os ficheiros R relacionados com o tratamento e exploraçãodos dados sensoriais das provas dos vinhos de forma a profundar o conhecimento sobre as potencialidades da função *princals()* do pacote *Gifi* para a implementação da ACPCAT:  R_script_tratamento_NAS, R_script_análise_NAS e R_script_análise_NAS_var_nominais.
 
 ### App
-Por fim, na pasta App, está o ficheiro app com o código que permitiu implementar a aplicação web "Gify" que tem como objetivo permitir a utilização da função princals() do pacote Gifi de forma intuitiva e simplificada.
+Por fim, o ficheiro App contém o código que permitiu implementar a aplicação *web* "Gify" que tem como objetivo permitir a utilização da função *princals()* do pacote *Gifi* de forma intuitiva e simplificada.
