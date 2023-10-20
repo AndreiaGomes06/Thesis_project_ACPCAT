@@ -1,4 +1,4 @@
-!([https://myoctocat.com/assets/images/base-octocat.svg](https://www.eng.uminho.pt/))
+!(https://www.eng.uminho.pt/SiteAssets/Logo.PNG)
 # Dissertação
 
 ## Contexto
