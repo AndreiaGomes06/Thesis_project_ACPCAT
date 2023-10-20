@@ -24,7 +24,7 @@ Com o intuito de permitir ao utilizador executar uma ACPCAT de forma simplificad
 ### [Datasets](Datasets)
 Nesta pasta estão presentes todos os conjuntos de dados utilizados nas diferentes etapas deste trabalho: BaseDados_organizada, BaseDados_Prova_descritiva, Dados_original, dataset_tratado_NAS, mamiferos e o ficheiro PDF com informações sobre a interpretação das provas de vinhos. 
 
-### [Exploração dos pacotes](Exploração dos pacotes)
+### [Exploração_pacotes](Exploração_pacotes)
 Nesta pasta estão os ficheiros R referentes à exploração dos pacotes disponíveis no *sotfware* R: Gifi_análise_nominal, Gifi_análise_ordinal e homals.
 
 ### [Vinhos](Vinhos)
