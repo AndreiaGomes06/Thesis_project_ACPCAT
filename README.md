@@ -1,4 +1,4 @@
-!(https://www.eng.uminho.pt/SiteAssets/Logo.PNG)
+![Simbolo Escola de Engenharia](https://www.eng.uminho.pt/SiteAssets/Logo.PNG)
 # Dissertação
 
 ## Contexto
