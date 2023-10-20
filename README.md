@@ -21,7 +21,7 @@ Com o intuito de permitir ao utilizador executar uma ACPCAT de forma simplificad
 
 ## Descrição das pastas
 
-### Datasets [Pasta datasets](Datasets)
+#### [Datasets](Datasets)
 Nesta pasta estão presentes todos os conjuntos de dados utilizados nas diferentes etapas deste trabalho: BaseDados_organizada, BaseDados_Prova_descritiva, Dados_original, dataset_tratado_NAS, mamiferos e o ficheiro PDF com informações sobre a interpretação das provas de vinhos. 
 
 ### Exploração dos pacotes
