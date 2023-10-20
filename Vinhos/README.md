@@ -1,1 +1,1 @@
-
+Nesta pasta estão presentes os ficheiros R relacionados com o tratamento e exploraçãodos dados sensoriais das provas dos vinhos de forma a profundar o conhecimento sobre as potencialidades da função *princals()* do pacote *Gifi* para a implementação da ACPCAT: R_script_tratamento_NAS, R_script_análise_NAS e R_script_análise_NAS_var_nominais.
